@@ -7,7 +7,7 @@ Stand: 23.03.2020 - 17:30Uhr
 ***[Kontakttelefonnummern](/helplines.md)***
 
 
-## Dashboards
+## Dashboards und Charts
 
   - [WHO
     worldwide](https://www.who.int/redirect-pages/page/novel-coronavirus-\(covid-19\)-situation-dashboard)
@@ -22,6 +22,7 @@ Stand: 23.03.2020 - 17:30Uhr
   - [European Centre for Disease Prevention and
     Control](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html)
   - [Tableau.com](https://www.tableau.com/covid-19-coronavirus-data-resources)
+  - [Financial Times](https://www.ft.com/coronavirus-latest) (free access) Daily updates of coronavirus trajectory tracker by [@jburnmurdoch](https://twitter.com/jburnmurdoch) et al.
 
 ## Lageinformationen
 
